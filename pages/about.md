@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
 ---
 
-![Photo](assets/img/uploads/thejordan.jpg)
+![Photo](assets/img/uploads/jordan02.jpg)
 
 <style>
   h1{
