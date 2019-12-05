@@ -6,7 +6,7 @@ section: skills
 intro_paragraph: >
 
 ---
-
+![skills](assets/img/uploads/skills.jpg)
 
 A list of the skills I have learned from my coursework in my classes are:
 

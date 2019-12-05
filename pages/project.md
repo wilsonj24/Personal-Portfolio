@@ -6,6 +6,7 @@ section: projects
 intro_paragraph: >
 
 ---
+![Projects](assets/img/uploads/projects.jpg)
 
 Below you can find some examples of some projects that I have done. I usually use Github to deploy all of my work.<br>
 

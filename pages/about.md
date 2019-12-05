@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
 ---
 
-![Photo](assets/img/uploads/jordan.jpg){:height="36px" width="36px"}
+![Photo](assets/img/uploads/jordan.jpg)
 
 
 
