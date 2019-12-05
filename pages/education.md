@@ -1,8 +1,8 @@
 ---
-layout: blog
+layout: page
 title: Education
 permalink: /education
-section: blog
+section: education
 intro_paragraph: >
 
 ---

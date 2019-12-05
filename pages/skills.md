@@ -2,7 +2,7 @@
 layout: home
 title: Skills
 permalink: /skills
-section: skillss
+section: skills
 intro_paragraph: >
 
 ---
