@@ -8,6 +8,7 @@ intro_paragraph: |
 
 ![Photo](assets/img/uploads/jordan.jpg =25x25)
 
+<img src="https://alleghenygators.com/images/2019/8/26/Wilson_Jordan.jpg?width=300" width="25" height="25" />
 
 ### Hello There!
 
