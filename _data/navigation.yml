@@ -8,3 +8,11 @@
   url: /contact
 - text: Blog
   url: /blog
+- text: Education
+  url: /education
+- text: projects
+  url: /projects
+- text: resume
+  url: /resume
+- text: skills
+  url: /skills
