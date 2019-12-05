@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
 ---
 
-![Photo](assets/img/uploads/jordan.jpg)
+![Photo](assets/img/uploads/thejordan.jpg)
 
 
 
