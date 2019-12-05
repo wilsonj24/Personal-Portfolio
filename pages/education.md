@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Education
-permalink: /blog
+permalink: /education
 section: blog
 intro_paragraph: >
 

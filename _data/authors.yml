@@ -1,11 +1,7 @@
 # specify site authors in this file
 # you can add .yml files for any other global data in this folder
 
-dan_urbanowicz:
-    name: Dan Urbanowicz
-    email: dan.urbanowicz@gmail.com
+jordan_wilson:
+    name: Jordan Wilson
+    email: wilsonj3@allegheny.edu
     web: https://www.danurbanowicz.com
-john_doe:
-    name: John Doe
-    email: johndoe@email.com
-    web: http://twitter.com/johndoe

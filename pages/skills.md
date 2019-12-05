@@ -1,12 +1,26 @@
 ---
 layout: home
-title: Welcome
-permalink: /
-section: home
+title: Skills
+permalink: /skills
+section: skillss
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+
 ---
+###Skills
+
+A list of the skills I have learned from my coursework in my classes are:
+
+* Python
+* Java
+* C
+* JavaScript
+* HTML
+* CSS
+* SQlite3
+* Django
+* MongoDB
+* Unix
+* PHP
+* AutoCad
+
+Additionally, I have knowledge of building computers as I have built a few gaming computers for personal use. I also have knowledge of using shells and netcat as I have done a few CTF's.
