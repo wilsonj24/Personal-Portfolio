@@ -1,11 +1,13 @@
 ---
 layout: blog
-title: The Blog
+title: Education
 permalink: /blog
 section: blog
 intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+
 ---
+
+### Education
+
+I attended Riverside High School in Durham, NC  and I graduated in June of 2017.<br><br>
+I currently attend Allegheny College located in Meadville, PA and plan on graduating in May 2021. I am majoring in Computer Science with a focus on cyber security.<br><br>
