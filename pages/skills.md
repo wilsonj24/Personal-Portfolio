@@ -6,8 +6,6 @@ section: skillss
 intro_paragraph: >
 
 ---
-###Skills
-
 A list of the skills I have learned from my coursework in my classes are:
 
 * Python
