@@ -6,6 +6,8 @@ section: resume
 intro_paragraph: >
 
 ---
+![Resume1](assets/img/uploads/theresume.jpg)
+
 <html>
   <head>
     <title>Title of the document</title>
