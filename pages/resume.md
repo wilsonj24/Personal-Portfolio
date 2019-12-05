@@ -8,10 +8,11 @@ intro_paragraph: >
 ---
 <html>
 <head>
-<title>Resume</title>
+<title>Title of the document</title>
 </head>
 <body>
-<h1>Resume</h1>
-<p>Open a PDF file <a href="/assets/img/uploads/JordanMWilson's.pdf">example</a>.</p>
+<h1>How to disable downloading of the PDF document</h1>
+<iframe src="assets/img/uploads/JordanMWilson's.pdf#toolbar=0" width="100%" height="500px">
+</iframe>
 </body>
 </html>
