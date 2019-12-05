@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
 ---
 
-![Photo](assets/img/uploads/jordan.jpg)
+<img src="jordan.jpg" alt="Image" height="42" width="42">
 
 
 ### Hello There!
