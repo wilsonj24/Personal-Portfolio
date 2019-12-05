@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
 ---
 
-![Photo](assets/img/uploads/jordan.jpg=25x25)
+![Photo](assets/img/uploads/jordan.jpg =25x25)
 
 
 ### Hello There!
