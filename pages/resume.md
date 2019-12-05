@@ -12,7 +12,7 @@ intro_paragraph: >
 </head>
 <body>
 <h1>How to disable downloading of the PDF document</h1>
-<iframe src="assets/img/uploads/JordanMWilson's.pdf#toolbar=0" width="100%" height="500px">
+<iframe src="/jordanwilson-480/assets/img/uploads/JordanMWilson's.pdf#toolbar=0" width="100%" height="500px">
 </iframe>
 </body>
 </html>
