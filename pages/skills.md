@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Skills
 permalink: /skills
 section: skills
