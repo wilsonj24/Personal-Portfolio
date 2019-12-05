@@ -5,11 +5,9 @@ permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+
 ---
 
-**Send us a message**
+### Contact
+
+If you would like to learn more about me you can contact me. My email is "wilsonj3@allegheny.edu".
