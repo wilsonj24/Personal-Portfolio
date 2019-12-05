@@ -8,18 +8,7 @@ intro_paragraph: |
 
 ![Photo](assets/img/uploads/jordan02.jpg)
 
-<style>
-  h1{
-    color: blue:
-    font-family: verdana:
-    font-size: 100%:
-  }
-  p{
-    color: black;
-    font-family: courier;
-    font-size: 50%;
-  }
-</style>
+
 
 ### Hello There!
 
