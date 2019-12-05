@@ -1,9 +1,10 @@
 ---
 layout: home
-title: Welcome
+title: Jordan Wilson
+       IT Security Analyst
 permalink: /
 section: home
 intro_paragraph: >
 
 ---
-Welcome! My name is Jordan Wilson
+Welcome! My name is Jordan Wilson and this is my personal portfolio website.
