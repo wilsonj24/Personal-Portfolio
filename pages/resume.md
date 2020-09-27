@@ -6,7 +6,7 @@ section: resume
 intro_paragraph: >
 
 ---
-![Resume1](assets/img/uploads/theresume.jpg)
+![Resume1](assets/img/uploads/JordanWilsonSeniorResume.pdf)
 
 <html>
   <head>
