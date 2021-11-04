@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jordan Wilson <br>
-       IT Security Analyst
+       QA Engineer
 permalink: /
 section: home
 intro_paragraph: >
