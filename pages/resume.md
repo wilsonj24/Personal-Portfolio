@@ -13,6 +13,6 @@ intro_paragraph: >
     <title>Title of the document</title>
   </head>
   <body>
-    <p>Click here to view full <a href="assets/img/uploads/JordanWilsonSeniorResume-2.pdf">resume</a>.</p>
+    <p>Click here to view full <a href="assets/img/uploads/Post-Grad-Gen-Resume1.pdf">resume</a>.</p>
   </body>
 </html>
